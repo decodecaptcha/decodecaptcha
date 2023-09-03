@@ -1,6 +1,7 @@
 ### Hi, 这是 艾登科技团队 唯一的 Github 账号 👋
 
-![](https://github-readme-stats.vercel.app/api?username=aidencaptcha)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=aidencaptcha) -->
+[![Github Stars](https://img.shields.io/badge/Github-2-blue)](https://github.com/aidencaptcha)
 
 <div align="center">
 <!-- visitor statistics logo 访问量统计徽标 -->
