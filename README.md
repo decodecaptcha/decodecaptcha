@@ -5,6 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=aidencaptcha&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
 
+![](https://github-readme-stats.vercel.app/api?username=aidencaptcha)
 
 <!--
 **aidencaptcha/aidencaptcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
