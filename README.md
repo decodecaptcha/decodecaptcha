@@ -13,7 +13,7 @@
 <!-- 折叠/暂时隐藏 Markdown 的分区 -->
 <details>
 
-<summary>单击展开详细介绍</summary>
+<summary>单击查看详细介绍</summary>
 
 ### FAQ
 
