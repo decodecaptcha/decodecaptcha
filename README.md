@@ -1,12 +1,11 @@
 ### Hi, 这是 艾登科技团队 唯一的 Github 账号 👋
 
+![](https://github-readme-stats.vercel.app/api?username=aidencaptcha)
+
 <div align="center">
 <!-- visitor statistics logo 访问量统计徽标 -->
 <img src="https://komarev.com/ghpvc/?username=aidencaptcha&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
-
-![](https://github-readme-stats.vercel.app/api?username=aidencaptcha)
-
 <!--
 **aidencaptcha/aidencaptcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
