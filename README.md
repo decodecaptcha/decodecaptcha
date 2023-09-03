@@ -1,4 +1,4 @@
-### Hi, 这是艾登科技团队的唯一 Github 账号 👋
+### Hi, 这是 艾登科技团队 唯一的 Github 账号 👋
 
 <div align="center">
 <!-- visitor statistics logo 访问量统计徽标 -->
