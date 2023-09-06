@@ -46,7 +46,7 @@
 
 </details>
 
-如果您开展业务遇到阻力，请联系邮箱: aidenvannet@gmail.com
+如果您开展业务遇到阻力，请联系邮箱: aidencaptcha@gmail.com
 
 <!--
 **aidencaptcha/aidencaptcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
