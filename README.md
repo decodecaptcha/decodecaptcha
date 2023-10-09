@@ -42,11 +42,11 @@
 <p>&emsp;&emsp;2. 过人机验证码实现自动发布博文</p>
 <p>&emsp;&emsp;3. 过人机验证码实现数据采集</p>
 <p>&emsp;&emsp;4. 节约您宝贵的人力成本</p>
-<p>&emsp;&emsp;5. 无障碍验证码识别服务,降低用户使用成本</p>
+<p>&emsp;&emsp;5. 无障碍验证码识别服务，降低用户使用成本</p>
 
 </details>
-
-如果您开展业务遇到阻力，请联系邮箱: aidencaptcha@gmail.com
+<p>据统计，全球所有人每天需要填写2亿个验证码。而输入一次验证码大概10秒，那全人类每天在验证码上花费50多万个小时</p>
+<p>由此, 降低验证码使用成本是艾登团队存在的意义，如果您开展业务遇到阻力，请联系邮箱: aidencaptcha@gmail.com</p>
 
 <!--
 **aidencaptcha/aidencaptcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
