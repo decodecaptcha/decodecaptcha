@@ -2,8 +2,9 @@
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=aidencaptcha) -->
 <!-- [![Github Stars](https://img.shields.io/badge/Github-2-blue)](https://github.com/aidencaptcha) -->
-![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidencaptcha&show_icons=true&theme=flag-india)
+
 <p>
+    ![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidencaptcha&show_icons=true&theme=flag-india)
     <a href="mailto:aidencaptcha@gmail.com">
         <img width="18" height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/mail.svg?sanitize=true" />
     </a>
