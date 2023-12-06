@@ -66,9 +66,9 @@
 [TencentCaptchaBreak](https://github.com/aidencaptcha/TencentCaptchaBreak) | [`#homepage`](https://aidencaptcha.github.io/TencentCaptchaBreak/) | [![GitHub stars](https://img.shields.io/github/stars/aidencaptcha/TencentCaptchaBreak?style=flat)](https://github.com/aidencaptcha/TencentCaptchaBreak/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/aidencaptcha/TencentCaptchaBreak?style=flat&label=last)](https://github.com/aidencaptcha/TencentCaptchaBreak/commits) |   |
 [GeetestCaptchaBreak](https://github.com/aidencaptcha/GeetestCaptchaBreak) | [`#homepage`](https://aidencaptcha.github.io/GeetestCaptchaBreak/) | [![GitHub stars](https://img.shields.io/github/stars/aidencaptcha/VivoPhoneAuthCheckSpider?style=flat)](https://github.com/aidencaptcha/GeetestCaptchaBreak/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/aidencaptcha/GeetestCaptchaBreak?style=flat&label=last)](https://github.com/aidencaptcha/GeetestCaptchaBreak/commits) |   |
 [DingxiangCaptchaBreak](https://github.com/aidencaptcha/DingxiangCaptchaBreak) | [`#homepage`](https://aidencaptcha.github.io/DingxiangCaptchaBreak/) | [![GitHub stars](https://img.shields.io/github/stars/aidencaptcha/VivoPhoneAuthCheckSpider?style=flat)](https://github.com/aidencaptcha/DingxiangCaptchaBreak/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/aidencaptcha/DingxiangCaptchaBreak?style=flat&label=last)](https://github.com/aidencaptcha/DingxiangCaptchaBreak/commits) |   |
-[NetEaseDunCaptchaBreak]() |  |  |  |  |即将上线
-[DouyinCaptchaBreak]() |  |  |  |  |即将上线
-[KuaishouCaptchaBreak]() |  |  |  |  |即将上线
+[NetEaseDunCaptchaBreak]() |  |  |  |  |
+[DouyinCaptchaBreak]() |  |  |  |  |
+[KuaishouCaptchaBreak]() |  |  |  |  |
 
 **Spider Project** | **Homepage** | **Stars** | **Last Commit** | **Master Project** | **Remarks** 
 :--- | --- | :--- | :--- | :--- | :--- 
