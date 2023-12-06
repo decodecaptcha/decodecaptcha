@@ -60,14 +60,17 @@
 <summary>单击查看产品/项目</summary>
 
 <!--repos-start-->
-**Captcha Project** | **Homepage** | **Stars** | **Last Commit** | **Downloads** | **Version** 
+**Captcha Project** | **Homepage** | **Stars** | **Last Commit** | **Master Project** | **comment** 
 :--- | --- | :--- | :--- | :--- | :--- 
-[VivoPhoneAuthCheckSpider](https://github.com/aidencaptcha/VivoPhoneAuthCheckSpider) | [`#homepage`](https://aidencaptcha.github.io/VivoPhoneAuthCheckSpider/) | [![GitHub stars](https://img.shields.io/github/stars/aidencaptcha/VivoPhoneAuthCheckSpider?style=flat)](https://github.com/aidencaptcha/VivoPhoneAuthCheckSpider/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/aidencaptcha/VivoPhoneAuthCheckSpider?style=flat&label=last)](https://github.com/aidencaptcha/VivoPhoneAuthCheckSpider/commits) |   | ![GitHub package version](https://img.shields.io/github/v/tag/aidencaptcha/VivoPhoneAuthCheckSpider?style=flat&label=&labelColor=555&logo=github)
+[TencentCaptchaBreak](https://github.com/aidencaptcha/TencentCaptchaBreak) | [`#homepage`](https://aidencaptcha.github.io/TencentCaptchaBreak/) | [![GitHub stars](https://img.shields.io/github/stars/aidencaptcha/TencentCaptchaBreak?style=flat)](https://github.com/aidencaptcha/TencentCaptchaBreak/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/aidencaptcha/TencentCaptchaBreak?style=flat&label=last)](https://github.com/aidencaptcha/TencentCaptchaBreak/commits) |   |
 
-**Spider Project** | **Homepage** | **Stars** | **Last Commit** | **Downloads** | **Version** 
+[GeetestCaptchaBreak](https://github.com/aidencaptcha/GeetestCaptchaBreak) | [`#homepage`](https://aidencaptcha.github.io/GeetestCaptchaBreak/) | [![GitHub stars](https://img.shields.io/github/stars/aidencaptcha/VivoPhoneAuthCheckSpider?style=flat)](https://github.com/aidencaptcha/GeetestCaptchaBreak/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/aidencaptcha/GeetestCaptchaBreak?style=flat&label=last)](https://github.com/aidencaptcha/GeetestCaptchaBreak/commits) |   |
+
+[DingxiangCaptchaBreak](https://github.com/aidencaptcha/DingxiangCaptchaBreak) | [`#homepage`](https://aidencaptcha.github.io/DingxiangCaptchaBreak/) | [![GitHub stars](https://img.shields.io/github/stars/aidencaptcha/VivoPhoneAuthCheckSpider?style=flat)](https://github.com/aidencaptcha/DingxiangCaptchaBreak/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/aidencaptcha/DingxiangCaptchaBreak?style=flat&label=last)](https://github.com/aidencaptcha/DingxiangCaptchaBreak/commits) |   |
+
+**Spider Project** | **Homepage** | **Stars** | **Last Commit** | **Master Project** | **comment** 
 :--- | --- | :--- | :--- | :--- | :--- 
-[VivoPhoneAuthCheckSpider](https://github.com/aidencaptcha/VivoPhoneAuthCheckSpider) | [`#homepage`](https://aidencaptcha.github.io/VivoPhoneAuthCheckSpider/) | [![GitHub stars](https://img.shields.io/github/stars/aidencaptcha/VivoPhoneAuthCheckSpider?style=flat)](https://github.com/aidencaptcha/VivoPhoneAuthCheckSpider/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/aidencaptcha/VivoPhoneAuthCheckSpider?style=flat&label=last)](https://github.com/aidencaptcha/VivoPhoneAuthCheckSpider/commits) |   | ![GitHub package version](https://img.shields.io/github/v/tag/aidencaptcha/VivoPhoneAuthCheckSpider?style=flat&label=&labelColor=555&logo=github)
-
+[VivoPhoneAuthCheckSpider](https://github.com/aidencaptcha/VivoPhoneAuthCheckSpider) | [`#homepage`](https://aidencaptcha.github.io/VivoPhoneAuthCheckSpider/) | [![GitHub stars](https://img.shields.io/github/stars/aidencaptcha/VivoPhoneAuthCheckSpider?style=flat)](https://github.com/aidencaptcha/VivoPhoneAuthCheckSpider/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/aidencaptcha/VivoPhoneAuthCheckSpider?style=flat&label=last)](https://github.com/aidencaptcha/VivoPhoneAuthCheckSpider/commits) | [DingxiangCaptchaBreak](https://github.com/aidencaptcha/DingxiangCaptchaBreak) |
 
 </details>
 <p>据统计，全球所有人每天需要填写2亿个验证码。而输入一次验证码大概10秒，那全人类每天在验证码上花费50多万个小时</p>
