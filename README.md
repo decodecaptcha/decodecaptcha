@@ -59,7 +59,9 @@
 
 <summary>单击查看产品/项目</summary>
 
+<!--repos-start-->
 **Spider Project** | **Homepage** | **Stars** | **Last Commit** | **Downloads** | **Version** 
+:--- | --- | :--- | :--- | :--- | :--- 
 [VivoPhoneAuthCheckSpider](https://github.com/aidencaptcha/VivoPhoneAuthCheckSpider) | [`#homepage`](https://aidencaptcha.github.io/VivoPhoneAuthCheckSpider/) | [![GitHub stars](https://img.shields.io/github/stars/aidencaptcha/VivoPhoneAuthCheckSpider?style=flat)](https://github.com/aidencaptcha/VivoPhoneAuthCheckSpider/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/aidencaptcha/VivoPhoneAuthCheckSpider?style=flat&label=last)](https://github.com/aidencaptcha/VivoPhoneAuthCheckSpider/commits) |   | ![GitHub package version](https://img.shields.io/github/v/tag/aidencaptcha/VivoPhoneAuthCheckSpider?style=flat&label=&labelColor=555&logo=github)
 
 </details>
