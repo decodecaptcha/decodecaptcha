@@ -20,7 +20,7 @@
 <!-- 折叠/暂时隐藏 Markdown 的分区 -->
 <details>
 
-<summary>单击查看团队介绍</summary>
+<summary>单击查看团队介绍 ...</summary>
 
 ### FAQ
 
@@ -57,7 +57,7 @@
 <!-- 折叠/暂时隐藏 Markdown 的分区 -->
 <details>
 
-<summary>单击查看产品/项目</summary>
+<summary>单击查看产品/项目 ...</summary>
 
 <!--repos-start-->
 **Captcha Project** | **Homepage** | **Stars** | **Last Commit** | **Master Project** | **Remarks** 
