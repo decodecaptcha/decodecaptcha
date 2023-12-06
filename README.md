@@ -2,20 +2,20 @@
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=aidencaptcha) -->
 <!-- [![Github Stars](https://img.shields.io/badge/Github-2-blue)](https://github.com/aidencaptcha) -->
+![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidencaptcha&show_icons=true&theme=flag-india)
 
+
+
+<div align="center">
 <p>
     <a>
-        ![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidencaptcha&show_icons=true&theme=flag-india)
+        <!-- visitor statistics logo 访问量统计徽标 -->
+        <img src="https://komarev.com/ghpvc/?username=aidencaptcha&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
     </a>
     <a href="mailto:aidencaptcha@gmail.com">
         <img width="18" height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/mail.svg?sanitize=true" />
     </a>
 </p>
-
-
-<div align="center">
-<!-- visitor statistics logo 访问量统计徽标 -->
-<img src="https://komarev.com/ghpvc/?username=aidencaptcha&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
 
 <!-- 常见问题 FAQ -->
