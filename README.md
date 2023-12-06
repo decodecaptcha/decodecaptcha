@@ -1,9 +1,9 @@
 ### Hi, 这是 艾登科技团队 唯一的 Github 账号 👋
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=aidencaptcha) -->
-<!-- [![Github Stars](https://img.shields.io/badge/Github-2-blue)](https://github.com/aidencaptcha) -->
+<!-- ![Github Stars](https://github-readme-stats.vercel.app/api?username=aidencaptcha) -->
+<!-- ![Github Stars](https://img.shields.io/badge/Github-2-blue)](https://github.com/aidencaptcha) -->
 <!-- ![Github Stars](https://github-readme-stats.vercel.app/api?username=aidencaptcha&show_icons=true&theme=flag-india) -->
-![Github Stars](https://github-readme-stats-one-mu-82.vercel.app/api?username=aidencaptcha&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues)
+![aidencaptcha's GitHub Stars](https://github-readme-stats-one-mu-82.vercel.app/api?username=aidencaptcha&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues)
 
 <div align="center">
 <p>
