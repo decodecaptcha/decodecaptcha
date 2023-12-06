@@ -4,8 +4,6 @@
 <!-- [![Github Stars](https://img.shields.io/badge/Github-2-blue)](https://github.com/aidencaptcha) -->
 ![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidencaptcha&show_icons=true&theme=flag-india)
 
-
-
 <div align="center">
 <p>
     <a>
@@ -22,7 +20,7 @@
 <!-- 折叠/暂时隐藏 Markdown 的分区 -->
 <details>
 
-<summary>单击查看详细介绍</summary>
+<summary>单击查看团队介绍</summary>
 
 ### FAQ
 
@@ -52,6 +50,17 @@
 <p>&emsp;&emsp;3. 过人机验证码实现数据采集</p>
 <p>&emsp;&emsp;4. 节约您宝贵的人力成本</p>
 <p>&emsp;&emsp;5. 无障碍验证码识别服务，降低用户使用成本</p>
+
+</details>
+
+<!-- 产品/项目 -->
+<!-- 折叠/暂时隐藏 Markdown 的分区 -->
+<details>
+
+<summary>单击查看产品/项目</summary>
+
+**Spider Project** | **Homepage** | **Stars** | **Last Commit** | **Downloads** | **Version** 
+[VivoPhoneAuthCheckSpider](https://github.com/aidencaptcha/VivoPhoneAuthCheckSpider) | [`#homepage`](https://jaywcjlove.github.io/VivoPhoneAuthCheckSpider/) | [![GitHub stars](https://img.shields.io/github/stars/jaywcjlove/VivoPhoneAuthCheckSpider?style=flat)](https://github.com/jaywcjlove/VivoPhoneAuthCheckSpider/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/jaywcjlove/VivoPhoneAuthCheckSpider?style=flat&label=last)](https://github.com/jaywcjlove/VivoPhoneAuthCheckSpider/commits) |   | ![GitHub package version](https://img.shields.io/github/v/tag/jaywcjlove/VivoPhoneAuthCheckSpider?style=flat&label=&labelColor=555&logo=github)
 
 </details>
 <p>据统计，全球所有人每天需要填写2亿个验证码。而输入一次验证码大概10秒，那全人类每天在验证码上花费50多万个小时</p>
