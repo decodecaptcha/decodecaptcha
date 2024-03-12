@@ -17,6 +17,30 @@
 </p>
 </div>
 
+<!-- 产品/项目 -->
+<!-- 折叠/暂时隐藏 Markdown 的分区 -->
+<details>
+
+<summary>单击查看产品/项目 ...</summary>
+
+<!--repos-start-->
+**Captcha Project** | **Homepage** | **Stars** | **Last Commit** | **Master Project** | **Remarks** 
+:--- | --- | :--- | :--- | :--- | :--- 
+[TencentCaptchaBreak](https://github.com/aidencaptcha/TencentCaptchaBreak) | [`#homepage`](https://aidencaptcha.github.io/TencentCaptchaBreak/) | [![GitHub stars](https://img.shields.io/github/stars/aidencaptcha/TencentCaptchaBreak?style=flat)](https://github.com/aidencaptcha/TencentCaptchaBreak/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/aidencaptcha/TencentCaptchaBreak?style=flat&label=last)](https://github.com/aidencaptcha/TencentCaptchaBreak/commits) |   | 腾讯最新
+[GeetestCaptchaBreak](https://github.com/aidencaptcha/GeetestCaptchaBreak) | [`#homepage`](https://aidencaptcha.github.io/GeetestCaptchaBreak/) | [![GitHub stars](https://img.shields.io/github/stars/aidencaptcha/GeetestCaptchaBreak?style=flat)](https://github.com/aidencaptcha/GeetestCaptchaBreak/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/aidencaptcha/GeetestCaptchaBreak?style=flat&label=last)](https://github.com/aidencaptcha/GeetestCaptchaBreak/commits) |   | 极验三、四最新
+[DingxiangCaptchaBreak](https://github.com/aidencaptcha/DingxiangCaptchaBreak) | [`#homepage`](https://aidencaptcha.github.io/DingxiangCaptchaBreak/) | [![GitHub stars](https://img.shields.io/github/stars/aidencaptcha/VivoPhoneAuthCheckSpider?style=flat)](https://github.com/aidencaptcha/DingxiangCaptchaBreak/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/aidencaptcha/DingxiangCaptchaBreak?style=flat&label=last)](https://github.com/aidencaptcha/DingxiangCaptchaBreak/commits) |   | 顶象最新
+[YidunCaptchaBreak](https://github.com/aidencaptcha/YidunCaptchaBreak) | [`#homepage`](https://aidencaptcha.github.io/YidunCaptchaBreak/) | [![GitHub stars](https://img.shields.io/github/stars/aidencaptcha/YidunCaptchaBreak?style=flat)](https://github.com/aidencaptcha/YidunCaptchaBreak/stargazers)  | [![GitHub last commit](https://img.shields.io/github/last-commit/aidencaptcha/YidunCaptchaBreak?style=flat&label=last)](https://github.com/aidencaptcha/YidunCaptchaBreak/commits)|   | 易盾最新
+[DouyinCaptchaBreak]() |  |  |  |  |
+[KuaishouCaptchaBreak]() |  |  |  |  |
+
+**Spider Project** | **Homepage** | **Stars** | **Last Commit** | **Master Project** | **Remarks** 
+:--- | --- | :--- | :--- | :--- | :--- 
+[HuzhanSpider](https://github.com/aidencaptcha/HuzhanSpider) | [`#homepage`](https://aidencaptcha.github.io/HuzhanSpider/) | [![GitHub stars](https://img.shields.io/github/stars/aidencaptcha/HuzhanSpider?style=flat)](https://github.com/aidencaptcha/HuzhanSpider/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/aidencaptcha/HuzhanSpider?style=flat&label=last)](https://github.com/aidencaptcha/HuzhanSpider/commits) | [GeetestCaptchaBreak](https://github.com/aidencaptcha/GeetestCaptchaBreak) | 极验三实战案例
+[QzoneLoginSpider](https://github.com/aidencaptcha/QzoneLoginSpider) | [`#homepage`](https://aidencaptcha.github.io/QzoneLoginSpider/) | [![GitHub stars](https://img.shields.io/github/stars/aidencaptcha/QzoneLoginSpider?style=flat)](https://github.com/aidencaptcha/QzoneLoginSpider/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/aidencaptcha/QzoneLoginSpider?style=flat&label=last)](https://github.com/aidencaptcha/QzoneLoginSpider/commits) | [TencentCaptchaBreak](https://github.com/aidencaptcha/TencentCaptchaBreak) | 腾讯实战案例
+[HuXiuSpider](https://github.com/aidencaptcha/HuXiuSpider) | [`#homepage`](https://aidencaptcha.github.io/HuXiuSpider/) | [![GitHub stars](https://img.shields.io/github/stars/aidencaptcha/HuXiuSpider?style=flat)](https://github.com/aidencaptcha/HuXiuSpider/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/aidencaptcha/HuXiuSpider?style=flat&label=last)](https://github.com/aidencaptcha/HuXiuSpider/commits) | [GeetestCaptchaBreak](https://github.com/aidencaptcha/GeetestCaptchaBreak) | 极验四实战案例
+[VivoPhoneAuthCheckSpider](https://github.com/aidencaptcha/VivoPhoneAuthCheckSpider) | [`#homepage`](https://aidencaptcha.github.io/VivoPhoneAuthCheckSpider/) | [![GitHub stars](https://img.shields.io/github/stars/aidencaptcha/VivoPhoneAuthCheckSpider?style=flat)](https://github.com/aidencaptcha/VivoPhoneAuthCheckSpider/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/aidencaptcha/VivoPhoneAuthCheckSpider?style=flat&label=last)](https://github.com/aidencaptcha/VivoPhoneAuthCheckSpider/commits) | [DingxiangCaptchaBreak](https://github.com/aidencaptcha/DingxiangCaptchaBreak) | 顶象实战案例
+[ZhihuLoginSpider](https://github.com/aidencaptcha/ZhihuLoginSpider) | [`#homepage`](https://aidencaptcha.github.io/ZhihuLoginSpider/) | [![GitHub stars](https://img.shields.io/github/stars/aidencaptcha/ZhihuLoginSpider?style=flat)](https://github.com/aidencaptcha/ZhihuLoginSpider/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/aidencaptcha/ZhihuLoginSpider?style=flat&label=last)](https://github.com/aidencaptcha/ZhihuLoginSpider/commits) | [YidunCaptchaBreak](https://github.com/aidencaptcha/YidunCaptchaBreak) | 顶象实战案例
+
 <!-- 常见问题 FAQ -->
 <!-- 折叠/暂时隐藏 Markdown 的分区 -->
 <details>
@@ -53,30 +77,6 @@
 <p>&emsp;&emsp;5. 无障碍验证码识别服务，降低用户使用成本</p>
 
 </details>
-
-<!-- 产品/项目 -->
-<!-- 折叠/暂时隐藏 Markdown 的分区 -->
-<details>
-
-<summary>单击查看产品/项目 ...</summary>
-
-<!--repos-start-->
-**Captcha Project** | **Homepage** | **Stars** | **Last Commit** | **Master Project** | **Remarks** 
-:--- | --- | :--- | :--- | :--- | :--- 
-[TencentCaptchaBreak](https://github.com/aidencaptcha/TencentCaptchaBreak) | [`#homepage`](https://aidencaptcha.github.io/TencentCaptchaBreak/) | [![GitHub stars](https://img.shields.io/github/stars/aidencaptcha/TencentCaptchaBreak?style=flat)](https://github.com/aidencaptcha/TencentCaptchaBreak/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/aidencaptcha/TencentCaptchaBreak?style=flat&label=last)](https://github.com/aidencaptcha/TencentCaptchaBreak/commits) |   | 腾讯最新
-[GeetestCaptchaBreak](https://github.com/aidencaptcha/GeetestCaptchaBreak) | [`#homepage`](https://aidencaptcha.github.io/GeetestCaptchaBreak/) | [![GitHub stars](https://img.shields.io/github/stars/aidencaptcha/GeetestCaptchaBreak?style=flat)](https://github.com/aidencaptcha/GeetestCaptchaBreak/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/aidencaptcha/GeetestCaptchaBreak?style=flat&label=last)](https://github.com/aidencaptcha/GeetestCaptchaBreak/commits) |   | 极验三、四最新
-[DingxiangCaptchaBreak](https://github.com/aidencaptcha/DingxiangCaptchaBreak) | [`#homepage`](https://aidencaptcha.github.io/DingxiangCaptchaBreak/) | [![GitHub stars](https://img.shields.io/github/stars/aidencaptcha/VivoPhoneAuthCheckSpider?style=flat)](https://github.com/aidencaptcha/DingxiangCaptchaBreak/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/aidencaptcha/DingxiangCaptchaBreak?style=flat&label=last)](https://github.com/aidencaptcha/DingxiangCaptchaBreak/commits) |   | 顶象最新
-[YidunCaptchaBreak](https://github.com/aidencaptcha/YidunCaptchaBreak) | [`#homepage`](https://aidencaptcha.github.io/YidunCaptchaBreak/) | [![GitHub stars](https://img.shields.io/github/stars/aidencaptcha/YidunCaptchaBreak?style=flat)](https://github.com/aidencaptcha/YidunCaptchaBreak/stargazers)  | [![GitHub last commit](https://img.shields.io/github/last-commit/aidencaptcha/YidunCaptchaBreak?style=flat&label=last)](https://github.com/aidencaptcha/YidunCaptchaBreak/commits)|   | 易盾最新
-[DouyinCaptchaBreak]() |  |  |  |  |
-[KuaishouCaptchaBreak]() |  |  |  |  |
-
-**Spider Project** | **Homepage** | **Stars** | **Last Commit** | **Master Project** | **Remarks** 
-:--- | --- | :--- | :--- | :--- | :--- 
-[HuzhanSpider](https://github.com/aidencaptcha/HuzhanSpider) | [`#homepage`](https://aidencaptcha.github.io/HuzhanSpider/) | [![GitHub stars](https://img.shields.io/github/stars/aidencaptcha/HuzhanSpider?style=flat)](https://github.com/aidencaptcha/HuzhanSpider/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/aidencaptcha/HuzhanSpider?style=flat&label=last)](https://github.com/aidencaptcha/HuzhanSpider/commits) | [GeetestCaptchaBreak](https://github.com/aidencaptcha/GeetestCaptchaBreak) | 极验三实战案例
-[QzoneLoginSpider](https://github.com/aidencaptcha/QzoneLoginSpider) | [`#homepage`](https://aidencaptcha.github.io/QzoneLoginSpider/) | [![GitHub stars](https://img.shields.io/github/stars/aidencaptcha/QzoneLoginSpider?style=flat)](https://github.com/aidencaptcha/QzoneLoginSpider/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/aidencaptcha/QzoneLoginSpider?style=flat&label=last)](https://github.com/aidencaptcha/QzoneLoginSpider/commits) | [TencentCaptchaBreak](https://github.com/aidencaptcha/TencentCaptchaBreak) | 腾讯实战案例
-[HuXiuSpider](https://github.com/aidencaptcha/HuXiuSpider) | [`#homepage`](https://aidencaptcha.github.io/HuXiuSpider/) | [![GitHub stars](https://img.shields.io/github/stars/aidencaptcha/HuXiuSpider?style=flat)](https://github.com/aidencaptcha/HuXiuSpider/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/aidencaptcha/HuXiuSpider?style=flat&label=last)](https://github.com/aidencaptcha/HuXiuSpider/commits) | [GeetestCaptchaBreak](https://github.com/aidencaptcha/GeetestCaptchaBreak) | 极验四实战案例
-[VivoPhoneAuthCheckSpider](https://github.com/aidencaptcha/VivoPhoneAuthCheckSpider) | [`#homepage`](https://aidencaptcha.github.io/VivoPhoneAuthCheckSpider/) | [![GitHub stars](https://img.shields.io/github/stars/aidencaptcha/VivoPhoneAuthCheckSpider?style=flat)](https://github.com/aidencaptcha/VivoPhoneAuthCheckSpider/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/aidencaptcha/VivoPhoneAuthCheckSpider?style=flat&label=last)](https://github.com/aidencaptcha/VivoPhoneAuthCheckSpider/commits) | [DingxiangCaptchaBreak](https://github.com/aidencaptcha/DingxiangCaptchaBreak) | 顶象实战案例
-[ZhihuLoginSpider](https://github.com/aidencaptcha/ZhihuLoginSpider) | [`#homepage`](https://aidencaptcha.github.io/ZhihuLoginSpider/) | [![GitHub stars](https://img.shields.io/github/stars/aidencaptcha/ZhihuLoginSpider?style=flat)](https://github.com/aidencaptcha/ZhihuLoginSpider/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/aidencaptcha/ZhihuLoginSpider?style=flat&label=last)](https://github.com/aidencaptcha/ZhihuLoginSpider/commits) | [YidunCaptchaBreak](https://github.com/aidencaptcha/YidunCaptchaBreak) | 顶象实战案例
 
 </details>
 <p>据统计，全球所有人每天需要填写2亿个验证码。而输入一次验证码大概10秒，那全人类每天在验证码上花费50多万个小时</p>
