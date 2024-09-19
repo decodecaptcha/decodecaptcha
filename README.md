@@ -7,12 +7,12 @@
 
 <div align="center">
 <p>
-    <a href="mailto:aidencaptcha@gmail.com"><img src="https://img.shields.io/badge/gmail-邮箱-blue" /></a>&emsp;
-    <a href="https://t.me/aidencaptcha"><img src="https://img.shields.io/badge/Telegram-飞机-07c160" /></a>&emsp;
+    <a href="mailto:decodecaptcha.com@gmail.com"><img src="https://img.shields.io/badge/gmail-邮箱-blue" /></a>&emsp;
+    <a href="https://t.me/decodecaptcha"><img src="https://img.shields.io/badge/Telegram-飞机-07c160" /></a>&emsp;
     <!-- <a href="xxx"><img  width="20" height="20" src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp; -->
     <a>
         <!-- visitor statistics logo 访问量统计徽标 -->
-        <img src="https://komarev.com/ghpvc/?username=aidencaptcha&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+        <img src="https://komarev.com/ghpvc/?username=decodecaptcha&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
     </a>
 </p>
 </div>
