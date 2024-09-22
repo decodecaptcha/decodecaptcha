@@ -83,7 +83,7 @@
 </details>
 
 <p>据统计，2021年，人类每天在解决验证码上浪费了500年的时间，相当于每年182,000年。如果把这个时间转换成金钱，按照平均美国收入计算，大约相当于320亿美元。</p>
-<p>由此, 降低验证码使用成本是艾登团队存在的意义，如果您开展业务遇到阻力，请访问https://decodecaptcha.com/</p>
+<p>由此, 降低验证码使用成本是艾登团队存在的意义，如果您开展业务遇到阻力，请访问：https://decodecaptcha.com</p>
 
 <!--
 **decodecaptcha/decodecaptcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
