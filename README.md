@@ -1,11 +1,9 @@
 ### 👋 Hi, 这是强大的验证码解锁器以及图像识别解决服务；
 ###     DecodeCaptcha - 助力数据采集/自动化/RPA。
 ###    艾登科技团队运营的 唯一的 Github 账号
-<!-- ![Github Stars](https://github-readme-stats.vercel.app/api?username=decodecaptcha) -->
-<!-- ![Github Stars](https://img.shields.io/badge/Github-2-blue)](https://github.com/decodecaptcha) -->
-<!-- ![Github Stars](https://github-readme-stats.vercel.app/api?username=decodecaptcha&show_icons=true&theme=flag-india) -->
-![decodecaptcha's GitHub Stars](https://github-readme-stats-one-mu-82.vercel.app/api?username=decodecaptcha&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues)
-
+<div><img src="https://github-profile-trophy.vercel.app/?username=decodecaptcha&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=decodecaptcha&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=decodecaptcha&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
 <div align="center">
 <p>
     <a href="mailto:decodecaptcha.com@gmail.com"><img src="https://img.shields.io/badge/gmail-邮箱-blue" /></a>&emsp;
