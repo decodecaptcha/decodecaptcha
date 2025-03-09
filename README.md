@@ -1,5 +1,5 @@
 ### 👋 Hi, 这是强大的验证码解锁器以及图像识别解决服务；
-###     DecodeCaptcha - 助力数据采集/自动化/RPA。
+###     DecodeCaptcha.com - 助力数据采集/自动化/RPA。
 ###    艾登科技团队运营的 唯一的 Github 账号
 <div><img src="https://github-profile-trophy.vercel.app/?username=decodecaptcha&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 <!-- <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=decodecaptcha" /> -->
@@ -81,7 +81,7 @@
 
 </details>
 
-<p>据统计，2021年，人类每天在解决验证码上浪费了500年的时间，相当于每年182,000年。如果把这个时间转换成金钱，按照中等发达国家人均收入计算，大约相当于每年浪费了320亿美元。</p>
+<p>据统计，2021年，人类每天在解决验证码上浪费了500年的时间，相当于每年182,000年。如果把这个时间转换成金钱，按照中等发达国家人均收入计算，大约相当于每年浪费了320亿美元！！！</p>
 <p>由此, 降低验证码使用成本是艾登团队存在的意义，如果您开展业务遇到阻力，请访问：<a href="http://decodecaptcha.com/a/5MyNXPQcf">DecodeCaptcha.com</a></p>
 <p>另外，我们长期招聘Python开发、JS逆向、运维人员，对爬虫/验证码领域有兴趣请发履历至邮箱：decodecaptcha.com@gmail.com</p>
 <!--
