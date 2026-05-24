@@ -1,6 +1,5 @@
-### 👋 Hi, 这是强大的验证码解锁器以及图像识别解决服务；
-###     DecodeCaptcha.com - 助力数据采集/自动化/RPA。
-###    艾登科技团队运营的 唯一的 Github 账号
+### 👋 Hi, MAKE YOUR CAPTCHA EASY TO DECODE
+###      - DecodeCaptcha.com
 <div><img src="https://github-profile-trophy.vercel.app/?username=decodecaptcha&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 <!-- <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=decodecaptcha" /> -->
 <br>
